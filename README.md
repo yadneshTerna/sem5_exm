@@ -1,2 +1,1 @@
-# sem5_exm
-sem 5 pratical exam
+# demonstrating how github branches work
